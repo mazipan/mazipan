@@ -1,4 +1,4 @@
-### Hi there 👋
+### Don't believe my word, just dig the code
 
 <!--
 **mazipan/mazipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
