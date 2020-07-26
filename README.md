@@ -1,4 +1,4 @@
-### Hi 👋
+![Cover](cover.png)
 
 **🙌 You can support me on:**
 
