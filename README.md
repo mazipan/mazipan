@@ -1,4 +1,4 @@
-![Cover](https://github.com/mazipan/mazipan/blob/master/cover.png)
+[![Cover](https://github.com/mazipan/mazipan/blob/master/cover.png)](https://mazipan.space/?utm_source=github)
 
 **🙌 You can support me on:**
 
