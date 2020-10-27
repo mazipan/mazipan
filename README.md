@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/maz_ipan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
 <a href="https://fb.com/mazipanneh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mazipanneh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mazipan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/mazipan" height="30" width="40" /></a>
 <a href="https://instagram.com/maz_ipan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maz_ipan" height="30" width="40" /></a>
 <a href="/https://mazipan.space/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mazipan.space/rss.xml" height="30" width="40" /></a>
 </p>
