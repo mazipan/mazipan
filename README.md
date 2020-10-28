@@ -23,5 +23,3 @@
 <a href="https://instagram.com/maz_ipan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maz_ipan" height="30" width="40" /></a>
 <a href="/https://mazipan.space/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mazipan.space/rss.xml" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazipan&label=Profile%20views&color=0e75b6&style=flat" alt="mazipan" /> </p>
