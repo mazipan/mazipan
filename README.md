@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm mazipan</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan" alt="mazipan" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan" alt="mazipan" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact" alt="mazipan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=onedark&locale=en" alt="mazipan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=onedark&locale=en" alt="mazipan" /></p>
 
 <h3 align="left">Support me on:</h3>
 
