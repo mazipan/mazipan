@@ -1,10 +1,13 @@
 # Hi 👋, I'm mazipan
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan" alt="mazipan" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact" alt="mazipan" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan" alt="mazipan" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=onedark&locale=en" alt="mazipan" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact" alt="mazipan" /></p>
+
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=onedark&locale=en" alt="mazipan" /></p>
 
 ### Support me on:
 
