@@ -1,4 +1,4 @@
-# Hi 👋, I'm mazipan
+# 👋 Hi, I'm mazipan
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
