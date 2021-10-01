@@ -16,7 +16,6 @@ Mainly use `JavaScript` to build websites.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
-<a href="https://fb.com/mazipanneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazipanneh" height="30" width="40" /></a>
 <a href="https://instagram.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maz_ipan" height="30" width="40" /></a>
 <a href="/https://mazipan.space/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mazipan.space/rss.xml" height="30" width="40" /></a>
 </p>
