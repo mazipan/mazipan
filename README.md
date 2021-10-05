@@ -9,10 +9,6 @@ Mainly use `JavaScript` to build websites.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="mazipan" /></a></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazipan&" alt="mazipan" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
