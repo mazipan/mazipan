@@ -2,10 +2,6 @@
 
 You may know me as `mazipan`, web developer from 🇮🇩.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
-
 ### Connect with me:
 
 <p align="left">
@@ -20,3 +16,7 @@ You may know me as `mazipan`, web developer from 🇮🇩.
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github)
 - 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github)
 - 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan)
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
