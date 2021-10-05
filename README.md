@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Irfan Maulana
 
-You may know me as `mazipan`. Web developer from 🇮🇩.
-
-Mainly use `JavaScript` to build websites.
-
+You may know me as `mazipan`, web developer from 🇮🇩.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
 
