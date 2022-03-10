@@ -6,8 +6,6 @@ You may know me as `mazipan`, web developer from 🇮🇩.
 
 <p align="left">
 <a href="https://twitter.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
-<a href="https://instagram.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maz_ipan" height="30" width="40" /></a>
-<a href="/https://mazipan.space/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mazipan.space/rss.xml" height="30" width="40" /></a>
 </p>
 
 ### Support me on:
