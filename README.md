@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Irfan Maulana
 
-You may know me as `mazipan`, web developer from 🇮🇩.
+Also known as mazipan, web developer from Indonesia 🇮🇩.
 
 ### Connect with me:
 
