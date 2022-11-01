@@ -17,4 +17,3 @@ Also known as mazipan, web developer from Indonesia 🇮🇩.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
