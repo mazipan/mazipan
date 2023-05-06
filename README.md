@@ -14,4 +14,10 @@ Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia 🇮🇩
 - 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github)
 - 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan)
 
+## Stats
+
+<details>
+<summary>Open Full Stats</summary>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazipan&theme=algolia&hide_border=true&langs_count=5" /><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /></p>
+</details>
