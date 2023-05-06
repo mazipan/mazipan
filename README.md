@@ -7,7 +7,9 @@ Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia with 10+
 <a href="https://twitter.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
 </p>
 
-### Support me on:
+### Support on:
+
+I have monthly income from my full-time employment, but you can always support me to pay some of projects thay require a domain subscription or just to help me to buying some snacks or tea.
 
 - 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan/tip?utm_source=github)
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github)
