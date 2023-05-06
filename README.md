@@ -1,6 +1,6 @@
 <h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi,</h2>
 
-Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia with 10+ years of experience in e-commerce industry. Mainly exploring `javascript`, `react`, `svelte`. Ex [@sayurbox](https://github.com/sayurbox), [@tokopedia](https://github.com/tokopedia), Bizzy Indonesia, [@bliblidotcom](https://github.com/bliblidotcom) SML Technologies.
+Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia with 10+ years of experience in e-commerce industry. Most of the times were working with `javascript` or `typescript`, using framework for building frontend application such as `react`, `svelte` or `vue`. Ex [@sayurbox](https://github.com/sayurbox), [@tokopedia](https://github.com/tokopedia), Bizzy Indonesia, [@bliblidotcom](https://github.com/bliblidotcom) SML Technologies. Helping OSS project in [PHPID](https://github.com/phpid-jakarta), [React.js ID](https://twitter.com/reactjsid) and many more.
 
 ### Connect with me
 <p align="left">
