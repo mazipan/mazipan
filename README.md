@@ -1,7 +1,8 @@
-<h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi, I'm Irfan Maulana!</h2>
+<h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi,</h2>
 
-### Connect with me:
+Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia 🇮🇩 with 10+ years of experience in e-commerce. He's like to exploring various programming languages, frameworks, and stays updated with the latest trends. Ex [@sayurbox](https://github.com/sayurbox), [@tokopedia](https://github.com/tokopedia), Bizzy Indonesia, [@bliblidotcom](https://github.com/bliblidotcom) SML Technologies.
 
+### Connect with me
 <p align="left">
 <a href="https://twitter.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
 </p>
