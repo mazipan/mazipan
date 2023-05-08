@@ -19,7 +19,8 @@ I have monthly income from my full-time employment, but you can always support m
 ## Stats
 
 <details>
-<summary>Open Full Stats</summary>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazipan&theme=algolia&hide_border=true&langs_count=5" /><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /></p>
+ <summary>Full Stats (click me to toggle 👀)</summary>
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazipan&theme=algolia&hide_border=true&langs_count=5" /><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" />
+ </p>
 </details>
