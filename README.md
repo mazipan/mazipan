@@ -9,7 +9,7 @@ Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia with 10+
 
 ### Support on:
 
-I have monthly income from my full-time employment, but you can always support me to pay some of projects thay require a domain subscription or just to help me to buying some snacks or tea.
+I have monthly income from my full-time employment, but you can always support me to pay some of projects those require domain subscription or just to buying some snacks or tea.
 
 - 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan/tip?utm_source=github)
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github)
