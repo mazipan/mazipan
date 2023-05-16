@@ -11,10 +11,11 @@ Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia with 10+
 
 I have monthly income from my full-time employment, but you can always support me to pay some of projects those require domain subscription or just to buying some snacks or tea.
 
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan/tip?utm_source=github)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github)
-- 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan)
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan/tip?utm_source=github-mazipan)
+- 👉 🇮🇩 [NihBuatJajan](https://www.nihbuatjajan.com/mazipan?utm_source=github-mazipan)
+- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github-mazipan)
+- 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github-mazipan)
+- 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan?utm_source=github-mazipan)
 
 ## Stats
 
