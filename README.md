@@ -9,7 +9,7 @@ Meet **Irfan** a.k.a `mazipan`, a seasoned web developer from Indonesia with 10+
  <a href="https://linkedin.com/in/mazipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazipan" height="30" width="40" /></a>
 </p>
 
-## 💰 Support me:
+## 💸 Support me:
 
 I have monthly income from my full-time employment, but you can always support me to pay some of projects those require domain subscription or just to buying some snacks or tea.
 
