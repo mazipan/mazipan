@@ -17,8 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name mazipan
+          git config user.email mazipanneh@gmail.com
           git add -A .
           git commit -m "CHORE: Auto generated gh stats image"
           git push
