@@ -23,6 +23,12 @@ I have monthly income from my full-time employment, but you can always support m
 
 <details>
  <summary>Full Stats (click me to toggle 👀)</summary>
+ <br>
+ <p align="center">
+  <a href="https://indogithubers.vercel.app/">
+   <img src="https://indogithubers-badge.vercel.app/badge?username=mazipan" alt="IndoGitHubers Badge">
+  </a>
+ </p>
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazipan&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
  <p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazipan&theme=algolia" alt="Stat Streak" /></p>
