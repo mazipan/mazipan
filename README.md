@@ -1,6 +1,6 @@
 # 👋 Welcome to MZP's GitHub
 
-Meet **Irfan** a.k.a `mazipan`, Web developer from 🇮🇩 with 10+ years of experiences in the E-Commerce industry. Working with `JS` or `TS`, familiar with multiple web frameworks such as `react`, `svelte` or `vue`. Now working at [GovTech Edu](https://www.govtechedu.id/), Ex [@sayurbox](https://github.com/sayurbox), [@tokopedia](https://github.com/tokopedia), Bizzy Indonesia, [@bliblidotcom](https://github.com/bliblidotcom), & SML Technologies. Helping OSS projects in [PHPID](https://github.com/phpid-jakarta), [React.js ID](https://twitter.com/reactjsid), [KawalCovid19](https://github.com/kawalcovid19), and many more.
+Meet **Irfan** a.k.a `mazipan`, Web developer from 🇮🇩 with 10+ years of experiences in the E-Commerce industry. Coding `JS` or `TS`, familiar with multiple web frameworks such as `react`, `svelte` or `vue`. Now working at [GovTech Edu](https://www.govtechedu.id/), Ex [@sayurbox](https://github.com/sayurbox), [@tokopedia](https://github.com/tokopedia), Bizzy Indonesia, [@bliblidotcom](https://github.com/bliblidotcom), & SML Technologies. Helping OSS projects in [PHPID](https://github.com/phpid-jakarta), [React.js ID](https://twitter.com/reactjsid), [KawalCovid19](https://github.com/kawalcovid19), and many more.
 
 ## 🔗 Connect with me
 
