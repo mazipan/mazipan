@@ -11,7 +11,7 @@ Meet **Irfan** a.k.a `mazipan`, Web developer from 🇮🇩 with 10+ years of ex
 
 ## 💸 Support me:
 
-I have monthly income from my full-time employment, but you can always support me to pay some of projects those require domain subscription or just to buying some snacks or tea.
+Help me to pay the domain subscription and buy me some snacks or tea.
 
 - 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan/tip?utm_source=github-mazipan)
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github-mazipan)
