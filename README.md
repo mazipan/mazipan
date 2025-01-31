@@ -14,9 +14,7 @@ Meet **Irfan** a.k.a `mazipan`, Web developer from 🇮🇩 with 10+ years of ex
 Help me to pay the domain subscription and buy me some snacks or tea.
 
 - 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan/tip?utm_source=github-mazipan)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github-mazipan)
 - 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github-mazipan)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan?utm_source=github-mazipan)
 
 ## 📊 Stats
 
