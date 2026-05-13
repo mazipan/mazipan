@@ -1,6 +1,6 @@
 # 👋 Welcome to MZP's GitHub
 
-Meet **Irfan** a.k.a `mazipan`, Web developer from 🇮🇩 with 10+ years of experiences in the E-Commerce industry. Coding `JS` or `TS`, familiar with multiple web frameworks such as `react`, `svelte` or `vue`. Now working at [GovTech Edu](https://www.govtechedu.id/), Ex [@sayurbox](https://github.com/sayurbox), [@tokopedia](https://github.com/tokopedia), Bizzy Indonesia, [@bliblidotcom](https://github.com/bliblidotcom), & SML Technologies. Helping OSS projects in [PHPID](https://github.com/phpid-jakarta), [React.js ID](https://twitter.com/reactjsid), [KawalCovid19](https://github.com/kawalcovid19), and many more.
+Meet **Irfan** a.k.a `mazipan`, Web developer from 🇮🇩 with 10+ years of experiences in the E-Commerce industry. Coding `JS` or `TS`, familiar with multiple web frameworks such as `react`, `svelte` or `vue`. Working at Wego via [@mazipan-wego](https://github.com/mazipan-wego), Ex [GovTech Edu](https://www.govtechedu.id/), [@sayurbox](https://github.com/sayurbox), [@tokopedia](https://github.com/tokopedia), Bizzy Indonesia, [@bliblidotcom](https://github.com/bliblidotcom), & SML Technologies. Helping OSS projects in [PHPID](https://github.com/phpid-jakarta), [React.js ID](https://twitter.com/reactjsid), [KawalCovid19](https://github.com/kawalcovid19), and many more.
 
 ## 🔗 Connect with me
 
@@ -20,13 +20,6 @@ Help me to pay the domain subscription and buy me some snacks or tea.
 
 <details>
  <summary>Full Stats (click me to toggle 👀)</summary>
- <br>
- <p align="center">
-  <a href="https://indogithubers.vercel.app/">
-   <img src="https://indogithubers-badge.vercel.app/badge?username=mazipan" alt="IndoGitHubers Badge">
-  </a>
- </p>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazipan&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
  <p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazipan&theme=algolia" alt="Stat Streak" /></p>
  <p><img src="https://github-profile-trophy.vercel.app/?username=mazipan&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
