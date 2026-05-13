@@ -20,7 +20,6 @@ Help me to pay the domain subscription and buy me some snacks or tea.
 
 <details>
  <summary>Full Stats (click me to toggle 👀)</summary>
- <p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazipan&theme=algolia" alt="Stat Streak" /></p>
  <p><img src="https://github-profile-trophy.vercel.app/?username=mazipan&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
   <p><img src="profile-3d-contrib/profile-night-green.svg" alt="Github Contribution Stats" /></p>
