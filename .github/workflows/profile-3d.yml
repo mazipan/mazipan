@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,5 +20,5 @@ jobs:
           git config user.name mazipan
           git config user.email mazipanneh@gmail.com
           git add -A .
-          git commit -m "CHORE: Auto generated gh stats image"
+          git commit -m "[bot 🤖]: Auto generated gh stats image"
           git push
