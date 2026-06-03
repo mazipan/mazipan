@@ -42,7 +42,7 @@ If you find my work useful, consider buying me a tea or helping with domain cost
 - 🌍 [PayPal](https://www.paypal.me/mazipan?utm_source=github-mazipan)
 
 ---
-
+<!--
 ## 📊 Stats
 
 <details>
@@ -52,3 +52,4 @@ If you find my work useful, consider buying me a tea or helping with domain cost
   <p><img src="https://github-profile-trophy.vercel.app/?username=mazipan&theme=algolia&margin-w=5&margin-h=5" alt="GitHub Trophies" /></p>
   <p><img src="profile-3d-contrib/profile-night-green.svg" alt="Contribution Graph" /></p>
 </details>
+-->
