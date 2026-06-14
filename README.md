@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Irfan (mazipan)
 
-Web developer from 🇮🇩 with **10+ years of experience** in the E-Commerce industry.
+Web developer from Indonesia (🕖 GMT+7) with **10+ years of experience** in the E-Commerce industry.
 I work primarily with `JavaScript` and `TypeScript`, and I'm comfortable across multiple frameworks including `React`, `Svelte`, and `Vue`.
 
 ---
