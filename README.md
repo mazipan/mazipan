@@ -10,7 +10,7 @@ I work primarily with `JavaScript` and `TypeScript`, and I'm comfortable across 
 Currently at **Wego** · [@mazipan-wego](https://github.com/mazipan-wego)
 
 Previously at:
-[GovTech Edu](https://www.govtechedu.id/) · [@sayurbox](https://github.com/sayurbox) · [@tokopedia](https://github.com/tokopedia) · [Bizzy Indonesia](linkedin.com/company/bizzy-indonesia/) · [@bliblidotcom](https://github.com/bliblidotcom) · [SML Technologies](https://www.linkedin.com/company/sml-technologies/)
+[GovTech Edu](https://www.govtechedu.id/) · [@sayurbox](https://github.com/sayurbox) · [@tokopedia](https://github.com/tokopedia) · [Bizzy Indonesia](https://www.linkedin.com/company/bizzy-indonesia/) · [@bliblidotcom](https://github.com/bliblidotcom) · [SML Technologies](https://www.linkedin.com/company/sml-technologies/)
 
 ---
 
